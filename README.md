@@ -1,5 +1,8 @@
 Pasos para crear una cadena Blockchain e integrar una Web de administración usando Multichain.
-Juan Pablo Martínez Pulido
+Juan Pablo Martínez Pulido.
+
+Video con demostración de funcionamiento final: https://youtu.be/2QdoPay_WgM
+
 Requisitos previos: 
 
 •	Descargar la plataforma Multichain desde la página oficial (https://www.multichain.com/download-install/) e instalarlo en cada equipo que haga parte de la cadena de bloques.  Multichain está disponible para Windows, Mac y Linux, compilado por defecto para sistemas operativos de 64bits. En este caso se instalará el nodo administrador en una maquina Windows 10 y los demás nodos de la cadena en otros sistemas operativos).
